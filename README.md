@@ -8,7 +8,7 @@ Algorithms available :
 
 
 Use Guide
-1. Run the visual.py file to run the application OR you can download pathfinding1 file(i.e exe file) and run it on your terminal using (./pathfinding1) for ubuntu.
+1. Run the visual.py file to run the application OR you can download pathfinding1 file(i.e type:-application/x-sharedlib) and run it on your terminal using (./pathfinding1) for ubuntu.
 2. Use the left mouse button to set start and end points
 3. Press maze to create a random maze press it multiple times for dense maze
 4. Press the appropriate button to start the algorithm visualization as shown on window.
