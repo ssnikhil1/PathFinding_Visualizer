@@ -23,3 +23,7 @@ Key Mappings
 |   Left Mouse Button(LMB)	|   	|  Set Start Point 	|
 | Left Mouse Button(LMB) - Second Click  	|   	|  Set End Point	|
 
+#### Link to the video:- (https://drive.google.com/file/d/14leEnYhQqLoFyyBzWhJDhFyTBC8_iWEv/view?usp=sharing)
+
+###### The image of project:-
+![pathfindingbfs](https://user-images.githubusercontent.com/53668222/107472739-80cab700-6b95-11eb-956c-c2ffd513b170.png)
